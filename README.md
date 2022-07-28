@@ -14,4 +14,6 @@ The ugly sides of Omron:
 
 1. Their documentation is way much longer than it should be. WAY MUCH LONGER. They are full of unnecessary images and paintings. Reading the documents is almost impossible in practical situations.
 
-2. Documentations are organized carelessly. Example: You should write down the data address range that the Modbus TCP Server library handler writes the incoming data into at the start of your document. This is the first thing developer needs. They did write this information at page 15 in a 26-page-document. 
+2. Documentations are organized carelessly. Example: You should write down the data address range that the Modbus TCP Server library handler writes the incoming data into at the start of your document. This is the first thing developer needs. They did write this information at page 15 in a 21-page-document. 
+![image](https://user-images.githubusercontent.com/6639874/181598207-a0306175-6378-4914-8ae7-ba5013faf430.png)
+
