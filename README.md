@@ -21,4 +21,4 @@ The ugly sides of Omron:
 2. Documentations are organized carelessly. Example: You should write down the data address range that the Modbus TCP Server library handler writes the incoming data into at the start of your document. This is the first thing developer needs. They did write this information at page 15 in a 21-page-document. 
 ![image](https://user-images.githubusercontent.com/6639874/181598207-a0306175-6378-4914-8ae7-ba5013faf430.png)
 
-3. Data areas mentioned in the documentation as, eg., `D100` and you have to type `D100` in CX Programmer. However, input registers are mentioned within the documentation as, eg., `IR 002`, but you have to type `2` as the data address in CX Programmer. You have to somewhat know that. 
+3. Data areas mentioned in the documentation as, eg., `D100` and you have to type `D100` in CX Programmer. However, input registers are mentioned within the documentation as, eg., `IR 002`, but you have to type `2` as the data address in CX Programmer. You have to know that. 
