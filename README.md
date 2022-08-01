@@ -12,7 +12,9 @@ The ugly sides of Omron:
     ![image](https://user-images.githubusercontent.com/6639874/181508557-e8fdd219-6d88-40c1-b01d-18d6aa9b7c3f.png)
 
 4. You need to turn off and then turn on the PLC in order to the Settings take effect. You have to know (or somewhat guess) that, there is no warning. 
+5. Connection to the PLC is lost after a simple compilation error. Only way to recover is close and reopen the project.
 
+    ![image](https://user-images.githubusercontent.com/6639874/182136059-39baed79-a239-4ed2-a7c9-77a08e7802bc.png)
 
 # Documentation
 
