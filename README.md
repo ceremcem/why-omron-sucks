@@ -25,6 +25,12 @@ The ugly sides of Omron:
 
 4. Documentation is written in a poor English, which leads confusions. 
 
+5. Documentation does not have to cover all the error codes:
+
+![image](https://user-images.githubusercontent.com/6639874/182104078-9ede2d31-1c5d-4b43-b98c-e6c078ca570a.png)
+
+> Note that they have Error code of `008F Hex`, which means `Other Error`. You have to guess what this error might be. They trust you. 
+
 # Technical Support
 
 1. Omron support engineers might only have some ideas about popular questions. For example, they have no idea about if their own RS-232 port works with their own Modbus RTU stack. 
