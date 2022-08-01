@@ -22,3 +22,9 @@ The ugly sides of Omron:
 ![image](https://user-images.githubusercontent.com/6639874/181598207-a0306175-6378-4914-8ae7-ba5013faf430.png)
 
 3. Data areas mentioned in the documentation as, eg., `D100` and you have to type `D100` in CX Programmer. However, input registers are mentioned within the documentation as, eg., `IR 002`, but you have to type `2` as the data address in CX Programmer. You have to know that. 
+
+4. Documentation is written in a poor English, which leads confusions. 
+
+# Technical Support
+
+1. Omron support engineers might only have some ideas about popular questions. For example, they have no idea about if their own RS-232 port works with their own Modbus RTU stack. 
