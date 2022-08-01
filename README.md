@@ -15,6 +15,13 @@ The ugly sides of Omron:
 5. Connection to the PLC is lost after a simple compilation error. Only way to recover is close and reopen the project.
 
     ![image](https://user-images.githubusercontent.com/6639874/182136059-39baed79-a239-4ed2-a7c9-77a08e7802bc.png)
+    
+6. It may suddenly turn out in the middle of your project that they have not fully support the Structured Text Language:
+
+    ![image](https://user-images.githubusercontent.com/6639874/182211019-f1eb749a-5e65-4803-bb30-27741beb701f.png)
+    
+    You have to deal with it. 
+
 
 # Documentation
 
