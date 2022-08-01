@@ -35,4 +35,4 @@ The ugly sides of Omron:
 
 # Technical Support
 
-1. Omron support engineers might only have some ideas about popular questions. For example, they have no idea about if their own RS-232 port works with their own Modbus RTU stack. 
+1. Omron support engineers might only have some ideas about popular questions, at least in Turkey. For example, they have no idea about if their own RS-232 port works with their own Modbus RTU stack. 
